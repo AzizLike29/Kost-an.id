@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632325232111",
+    "project_id": "pembayarankose",
+    "storage_bucket": "pembayarankose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632325232111:android:556b8b04b0da26da26521a",
+        "android_client_info": {
+          "package_name": "com.example.pembayarankose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632325232111-ko6abqk6bjl3qpllffubl41npjkohmue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr2DcqQPYsUMpxr3eMzbjTBnkSOawEtFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632325232111-ko6abqk6bjl3qpllffubl41npjkohmue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
